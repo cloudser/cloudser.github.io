@@ -1,1 +1,1 @@
-# cloudser.github.io
+# blogs
